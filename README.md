@@ -6,3 +6,5 @@ After all, what makes a video game "good" is incredibly subjective. I viewed cha
 perform well with classification based on the numerical features I engineered.
 
 Overall, this Analysis involves NLP Techniques, Statistical modeling of Video Game Trends, Coorelation Matrices, Sentiment Analysis, various data visualizations, Time Series Data Analysis, and lastly utilizing Machine Learning Models and ensembling techniques to create a genre classification model.
+
+Github doesn't properly load my Jupyter notebook due to some of the libraries I worked with, so to view my entire analysis, please use the following link: https://nbviewer.org/github/AdishSundar/VideoGame-Analysis-Project/blob/main/VideoGameAnalysis.ipynb
